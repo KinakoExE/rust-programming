@@ -19,3 +19,7 @@ path = "src/method-chain.rs"
 [[bin]]
 name = "macro"
 path = "src/macro.rs"
+
+[[bin]]
+name = "assertion"
+path = "src/assertion.rs"
