@@ -15,3 +15,7 @@ path = "src/impl-example.rs"
 [[bin]]
 name = "method-chain"
 path = "src/method-chain.rs"
+
+[[bin]]
+name = "macro"
+path = "src/macro.rs"
