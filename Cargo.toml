@@ -23,3 +23,7 @@ path = "src/macro.rs"
 [[bin]]
 name = "assertion"
 path = "src/assertion.rs"
+
+[[bin]]
+name = "trait-derive"
+path = "src/trait-derive.rs"
