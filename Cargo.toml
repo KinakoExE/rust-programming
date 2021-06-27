@@ -27,3 +27,7 @@ path = "src/assertion.rs"
 [[bin]]
 name = "trait-derive"
 path = "src/trait-derive.rs"
+
+[[bin]]
+name = "borrow"
+path = "src/borrow.rs"
