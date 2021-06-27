@@ -31,3 +31,11 @@ path = "src/trait-derive.rs"
 [[bin]]
 name = "borrow"
 path = "src/borrow.rs"
+
+[[bin]]
+name = "thread"
+path = "src/thread.rs"
+
+[[bin]]
+name = "shared-memory"
+path = "src/shared-memory.rs"
